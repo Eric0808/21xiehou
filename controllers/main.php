@@ -10,7 +10,7 @@ class Main extends J_Controller
 	
 	
 	public function index()
-	{gdgfdgfdgd
+	{
 		$setting=array();	
 		$content = $this->load->view('index',array(), true);
 			
